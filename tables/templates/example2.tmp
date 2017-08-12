@@ -1,0 +1,15 @@
+#ifndef ANALYSIS_H
+#define ANALYSIS_H
+
+namespace Analysis {{
+
+    double g({GRAVITY});
+    double m({MASS});
+    double h({HEIGHT});
+    
+    double Epot({POTENTIAL});
+
+}}
+
+
+#endif

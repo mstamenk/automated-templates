@@ -1,0 +1,11 @@
+\begin{{table}}[h]
+\begin{{center}}
+    \begin{{tabular}}{{c|ccc}}
+     Order       & Linear  & Square   & Cubic     \\
+            \hline
+     Function    & ${a}^1$ & ${a}^2$  & ${a}^3$   \\
+     Value       & {first} & {second} & {third}   \\
+            \hline
+    \end{{tabular}}
+\end{{center}}
+\end{{table}}
